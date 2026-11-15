@@ -1,0 +1,29 @@
+{
+  "hw44": {
+    "changed_original_cells": [
+      10,
+      12,
+      16,
+      18
+    ],
+    "executed_code_cells": 13,
+    "figures": 1,
+    "complete_200_frame_animations": 1,
+    "non_answer_sources_unchanged": true,
+    "additional_tests_passed": true
+  },
+  "hw45": {
+    "changed_original_cells": [
+      10,
+      12,
+      14,
+      16,
+      20
+    ],
+    "executed_code_cells": 14,
+    "figures": 1,
+    "complete_200_frame_animations": 1,
+    "non_answer_sources_unchanged": true,
+    "additional_tests_passed": true
+  }
+}
