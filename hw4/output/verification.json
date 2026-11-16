@@ -1,29 +1,39 @@
 {
   "hw44": {
-    "changed_original_cells": [
+    "original_cells": 22,
+    "final_cells": 22,
+    "changed_todo_cells": [
       10,
       12,
-      16,
+      16
+    ],
+    "completed_written_answer_cells": [
       18
     ],
+    "permitted_reference_cells": 0,
     "executed_code_cells": 13,
-    "figures": 1,
-    "complete_200_frame_animations": 1,
-    "non_answer_sources_unchanged": true,
-    "additional_tests_passed": true
+    "execution_errors": 0,
+    "non_answer_original_sources_unchanged": true,
+    "animation_frames": 200,
+    "provided_tests_completed": true
   },
   "hw45": {
-    "changed_original_cells": [
+    "original_cells": 24,
+    "final_cells": 25,
+    "changed_todo_cells": [
       10,
       12,
       14,
-      16,
+      16
+    ],
+    "completed_written_answer_cells": [
       20
     ],
+    "permitted_reference_cells": 1,
     "executed_code_cells": 14,
-    "figures": 1,
-    "complete_200_frame_animations": 1,
-    "non_answer_sources_unchanged": true,
-    "additional_tests_passed": true
+    "execution_errors": 0,
+    "non_answer_original_sources_unchanged": true,
+    "animation_frames": 200,
+    "provided_tests_completed": true
   }
 }
